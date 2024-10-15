@@ -5,9 +5,8 @@
 1- Este projeto utiliza SQL para extrair e consolidar dados de vendas a partir do banco de dados **AdventureWorks**. Os dados foram ajustados no Excel e apresentados em um dashboard para insights visuais.
 
 ### Arquivos
-- **script.sql**: Código SQL para criar a view.  
-- **dados.xlsx**: Dados exportados e modificados no Excel.  
-- **dashboard.png**: Imagem do dashboard final.  
+- **Projeto-SQL-Excel.sql**: Código SQL para criar a view.  
+- **Projeto SQL-Excel.xlsx**: Dados exportados e modificados no Excel.  
 
 ### Como Reproduzir
 - Execute o script SQL no banco de dados AdventureWorks.  
